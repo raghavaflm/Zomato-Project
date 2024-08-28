@@ -17,10 +17,10 @@ const Footer = () => {
           <div className="lang">
             <select>
               <option value="India">India</option>
-              <option value="Australia">Australia</option>
-              <option value="London">London</option>
-              <option value="America">America</option>
-              <option value="France">France</option>
+              <option value="Australia">Karnataka</option>
+              <option value="London">RAJAPURA</option>
+              <option value="America">THAMMENAHALLI</option>
+              <option value="France">CHITRADURGA</option>
               <option value="Brazil">Brazil</option>
               <option value="England">England</option>
               <option value="South Africa">South Africa</option>
@@ -28,8 +28,8 @@ const Footer = () => {
             </select>
             <select>
               <option value="English">English</option>
-              <option value="Hindi">Hindi</option>
-              <option value="Polish">Polish</option>
+              <option value="Hindi">KANNADA</option>
+              <option value="Polish">HINDI</option>
             </select>
           </div>
         </div>
